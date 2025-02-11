@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think i am available**
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waihlaingoo16&show_icons=true&theme=radical)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waihlaingoo16&show_icons=true&theme=tokyonight)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
